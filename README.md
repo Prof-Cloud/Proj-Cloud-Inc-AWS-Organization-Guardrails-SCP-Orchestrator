@@ -24,16 +24,14 @@ Identify & Network Perimeter
 Data Sovereignty & Archiving
 
   - Centralized Logging: A hardened S3 bucket containing all organization-wide activity
-  - Lifecycle what: Automattically transitions logs to S3 Glacier after 60 days to reduce storage costs while maintancing compliance.
+  - Lifecycle what: Automattically transitions logs to S3 Glacier after 60 days to reduce storage costs while maintaining compliance.
 
 
 ## Alternatives You Could Use Instead
 
 1. AWS Control Tower: For a managed, out-of-the-box landing zone experience.
 
-2. AWS Transit Gateway: To centralize complex networking between dozens of VPCs.
-
-3. AWS CloudFormation StackSets: For deploying IAM roles or resources across every account in the Org simultaneously.
+2. AWS CloudFormation StackSets: For deploying IAM roles or resources across every account in the Org simultaneously.
 
 ## Improvements I Can Add Later
 
