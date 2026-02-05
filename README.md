@@ -1,0 +1,1 @@
+In this project, I built a professional-grade AWS organization for Proj Cloud Inc using Terraform. Instead of managing dozens of accounts and security settings manually, I used Infrastructure as Code (Iac)
