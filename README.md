@@ -18,7 +18,7 @@ Organizational Structure
 
 Identify & Network Perimeter
 
-  - Permission Boundaries: Ensuring that Admin Users can't delete audit trails or stop security logging
+  - Permission Boundaries: Limit the admin power. Ensuring that Admin Users can't delete audit trails or stop security logging
   - Network Lockdown: Prevents the creation of unauthorized Internet Gateway
 
 
