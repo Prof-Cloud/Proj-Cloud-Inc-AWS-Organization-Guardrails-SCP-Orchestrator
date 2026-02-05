@@ -12,7 +12,7 @@ Organizational Structure
 
  Regional & Financial Guardrails (SCPs)
 
-   - Regional Lockdown: A Service Control Policy (SCP) that hard restricts activity to us-east-1 and ca-central-1, preventing unauthorized global resource sprawl
+   - Regional Lockdown: A Service Control Policy (SCP) that hard restricts activities to us-east-1 and ca-central-1. This prevents unauthorized global resource sprawl and keeps data within North America
    - Cost Protection: Implements a "Wallet Guard" that denies the launch of high-cost GPUs and memory-intensive instances, keeping the cloud budget predictable
 
 
