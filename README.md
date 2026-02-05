@@ -7,7 +7,7 @@ In this project, I built a professional-grade AWS organization for Proj Cloud In
 Organizational Structure 
 
   - Automated OUs: Created distinct Organizational Units to isolate workloads.
-  - This limits the blast radius, if something goes wrong in DevOps accounts, it won't affect the Finance or Security account. 
+  - This limits the blast radius; if something goes wrong in DevOps accounts, it won't affect the Finance or Security account. 
 
 
  Regional & Financial Guardrails (SCPs)
